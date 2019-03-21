@@ -9,7 +9,7 @@ from conans.errors import ConanInvalidConfiguration
 
 class ProtobufConan(ConanFile):
     name = "protobuf"
-    version = "3.6.1"
+    version = "3.7.0-rc.3"
     url = "https://github.com/bincrafters/conan-protobuf"
     homepage = "https://github.com/protocolbuffers/protobuf"
     topics = ("conan", "protobuf", "protocol-buffers", "protocol-compiler", "serialization", "rpc")
